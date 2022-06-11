@@ -11,8 +11,11 @@ See [ResearchGate](https://www.researchgate.net/profile/Dongya-Wu) to get more i
 
 ***
 ## Education
-Bachlor Horticulture  Zhejiang University
-PhD Crop genetic breeding Zhejiang University Supervisor: Longjiang Fan ([Bioinplant Lab](http://ibi.zju.edu.cn/bioinplant/))
+Bachlor Horticulture  Zhejiang University  
+  
+PhD Crop genetic breeding Zhejiang University  
+Supervisor: Longjiang Fan ([Bioinplant Lab](http://ibi.zju.edu.cn/bioinplant/))
+
 ***
 
 ## Research interest
@@ -38,12 +41,12 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 1.Chu-Yu Ye#, Wei Tang#, **Dongya Wu#** et al., [Genomic evidence of human selection on Vavilovian mimicry](https://www.nature.com/articles/s41559-019-0976-1). ***Nature Ecology & Evolution***. 3, 1474-1482 (2019).  
 
 ### Other publications
-6.Yanqing Sun#, Enhui Shen#, Yiyu Hu, **Dongya Wu**, Yu Feng, Sangting Lao, Chenfeng Dong, Tianyu Du, Wei Hua, Chu-Yu Ye, Jinhuan Zhu, Qian-Hao Zhu, Daguang Cai, Lidia Skuza, Jie Qiu and Longjiang Fan* (2022). Population genomic analysis reveals domestication of cultivated rye from weedy rye. Molecular Plant 15:552–561.
-5.Lingfeng Mao, Meihong Chen, Qinjie Chu, Lei Jia, Most. Humaira Sultana, **Dongya Wu**, Kong X, Jie Qiu, Chu-Yu Ye, Xi Chen*, and Longjiang Fan (2019). RiceRelativesGD: a genomic database of rice relatives for rice research. Database 2019:1–8.
-4.Sultana Most. Humaira, Fangjie Liu, Md. Alamin, Lingfeng Mao, Lei Jia, Hongyu Chen, **Dongya Wu**, Yingying Wang, Fei Fu, Sanling Wu, Weidi Wang, Chuyu Ye, Qian-hao Zhu, Jie Qiu*, Longjiang Fan (2019). Gene modules co-regulated with biosynthetic gene clusters for allelopathy between rice and barnyardgrass. International Journal of Molecular Science 20:3846.
-3.Bowen Jiang, Sangting Lao, **Dongya Wu**, Longjiang Fan and Chu-Yu Ye* (2021). The complete chloroplast genome of Echinochloa haploclada. Mitochondrial DNA Part B 6:3105–3106.
-2.Jun Zhou, Lingfeng Mao, Jie Qiu, Meng Wang, Lei Jia, **Dongya Wu**, Zhesi He, Meihong Chen, Yifei Shen, Enhui Shen, Yongji Huang, Ruiyuan Li, Dandan Hu, Lei Shi, Kai Wang, Qian-Hao Zhu, Chuyu Ye, Ian Bancroft, Graham J King, Jinling Meng, Longjiang Fan* (2019). Genome‐wide selection footprints and deleterious variations in young Asian allotetraploid rapeseed. Plant Biotechnology Journal 17:1998–2010.
-1.Longbiao Guo#, Jie Qiu#, Chuyu Ye, Gulei Jin, Lingfeng Mao, Haiqiang Zhang, Xuefang Yang, Qiong Peng, Yingying Wang, Lei Jia, Zhangxiang Lin, Gengmi Li, Fei Fu, Chen Liu, Li Chen, Enhui Shen, Weidi Wang, Qinjie Chu, **Dongya Wu**, Sanling Wu, Chenyang Xia, Yongfei Zhang, Xiaomao Zhou, Lifeng Wang, Lamei Wu, Weijie Song, Yunfei Wang, Qingyao Shu, Daisuke Aoki, Emi Yumoto, Takao Yokota, Koji Miyamoto, Kazunori Okada, Do-Soon Kim, Daguang Cai, Chulong Zhang, Yonggen Lou, Qian Qian, Hirofumi Yamaguchi, Hisakazu Yamane, Chui-Hua Kong, Michael P. Timko, Lianyang Bai* and Longjiang Fan* (2017). Echinochloa crus-galli genome analysis provides insight into its adaptation and invasiveness as a weed. Nature Commununications 8:1031.
+6.Yanqing Sun#, Enhui Shen#, Yiyu Hu, **Dongya Wu**, Yu Feng, Sangting Lao, Chenfeng Dong, Tianyu Du, Wei Hua, Chu-Yu Ye, Jinhuan Zhu, Qian-Hao Zhu, Daguang Cai, Lidia Skuza, Jie Qiu and Longjiang Fan* (2022). Population genomic analysis reveals domestication of cultivated rye from weedy rye. Molecular Plant 15:552–561.  
+5.Lingfeng Mao, Meihong Chen, Qinjie Chu, Lei Jia, Most. Humaira Sultana, **Dongya Wu**, Kong X, Jie Qiu, Chu-Yu Ye, Xi Chen*, and Longjiang Fan (2019). RiceRelativesGD: a genomic database of rice relatives for rice research. Database 2019:1–8.  
+4.Sultana Most. Humaira, Fangjie Liu, Md. Alamin, Lingfeng Mao, Lei Jia, Hongyu Chen, **Dongya Wu**, Yingying Wang, Fei Fu, Sanling Wu, Weidi Wang, Chuyu Ye, Qian-hao Zhu, Jie Qiu*, Longjiang Fan (2019). Gene modules co-regulated with biosynthetic gene clusters for allelopathy between rice and barnyardgrass. International Journal of Molecular Science 20:3846.  
+3.Bowen Jiang, Sangting Lao, **Dongya Wu**, Longjiang Fan and Chu-Yu Ye* (2021). The complete chloroplast genome of Echinochloa haploclada. Mitochondrial DNA Part B 6:3105–3106.  
+2.Jun Zhou, Lingfeng Mao, Jie Qiu, Meng Wang, Lei Jia, **Dongya Wu**, Zhesi He, Meihong Chen, Yifei Shen, Enhui Shen, Yongji Huang, Ruiyuan Li, Dandan Hu, Lei Shi, Kai Wang, Qian-Hao Zhu, Chuyu Ye, Ian Bancroft, Graham J King, Jinling Meng, Longjiang Fan* (2019). Genome‐wide selection footprints and deleterious variations in young Asian allotetraploid rapeseed. Plant Biotechnology Journal 17:1998–2010.  
+1.Longbiao Guo#, Jie Qiu#, Chuyu Ye, Gulei Jin, Lingfeng Mao, Haiqiang Zhang, Xuefang Yang, Qiong Peng, Yingying Wang, Lei Jia, Zhangxiang Lin, Gengmi Li, Fei Fu, Chen Liu, Li Chen, Enhui Shen, Weidi Wang, Qinjie Chu, **Dongya Wu**, Sanling Wu, Chenyang Xia, Yongfei Zhang, Xiaomao Zhou, Lifeng Wang, Lamei Wu, Weijie Song, Yunfei Wang, Qingyao Shu, Daisuke Aoki, Emi Yumoto, Takao Yokota, Koji Miyamoto, Kazunori Okada, Do-Soon Kim, Daguang Cai, Chulong Zhang, Yonggen Lou, Qian Qian, Hirofumi Yamaguchi, Hisakazu Yamane, Chui-Hua Kong, Michael P. Timko, Lianyang Bai* and Longjiang Fan* (2017). Echinochloa crus-galli genome analysis provides insight into its adaptation and invasiveness as a weed. Nature Commununications 8:1031.  
 
 ### Preprints
 1.**Dongya Wu** et al., Horizontal transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***bioRxiv***. doi:https://doi.org/10.1101/2022.01.11.475971 (2022) (revised in ***the Plant Journal***). 
