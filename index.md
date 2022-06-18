@@ -27,7 +27,8 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 ### Discordance in phylogeny inference
   Horizontal transfer, gene introgression, in-complete lineage sorting would result in the discordance in gene phylogeny inference (e.g. in Poaceae). How frequent they are across plants and other kingdoms and how they affect species adaptation are interesting questions to explore. For example, I have identified several important genes which could putatively enhance the crop adaptation and resistance in Poaceae.
 ### Convergent evolution and accelerating breeding
-  Traditional gene fine-mapping seems not practicable for orphan crops and the cross-species whole-genome selection analyzes may provide a faster way to excavate target loci for improvement, from the view of convergent evolution. By utilizing the genetic resources from other species, the improvement of orphan crops could be accelerated. Meanwhile, superior resistance genes from orphan crops could be utilized in the improvement of main crops.
+  Traditional gene fine-mapping seems not practicable for orphan crops and the cross-species whole-genome selection analyzes may provide a faster way to excavate target loci for improvement, from the view of convergent evolution. By utilizing the genetic resources from other species, the improvement of orphan crops could be accelerated. Meanwhile, superior resistance genes from orphan crops could be utilized in the improvement of main crops.   
+ 
 ***
 
 ## Publications 
