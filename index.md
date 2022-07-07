@@ -33,6 +33,7 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 
 ## Publications 
 ### First-author Publications (#, Co-first author)
+**#8**.**Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022).
 **#7**.**Dongya Wu** et al., Horizontal transfer and evolution of the biosynthetic gene cluster for benzoxazinoid in plants. ***Plant Communications***. doi:https://doi.org/10.1016/j.xplc.2022.100320 (2022).  
 **#6**.**Dongya Wu** et al., [Genomic insights into the evolution of Echinochloa species as weed and orphan crop](https://www.nature.com/articles/s41467-022-28359-9). ***Nature Communications***. doi: https://doi.org/10.1038/s41467-022-28359-9 (2022).  
 **#5**.**Dongya Wu** et al., Weedy rice, a hidden gold mine in the paddy field. ***Molecular Plant***. doi: https://doi.org/10.1016/j.molp.2022.01.008 (2022).  
@@ -50,7 +51,7 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 **#1**.Longbiao Guo#, Jie Qiu#, Chuyu Ye, Gulei Jin, Lingfeng Mao, Haiqiang Zhang, Xuefang Yang, Qiong Peng, Yingying Wang, Lei Jia, Zhangxiang Lin, Gengmi Li, Fei Fu, Chen Liu, Li Chen, Enhui Shen, Weidi Wang, Qinjie Chu, **Dongya Wu**, Sanling Wu, Chenyang Xia, Yongfei Zhang, Xiaomao Zhou, Lifeng Wang, Lamei Wu, Weijie Song, Yunfei Wang, Qingyao Shu, Daisuke Aoki, Emi Yumoto, Takao Yokota, Koji Miyamoto, Kazunori Okada, Do-Soon Kim, Daguang Cai, Chulong Zhang, Yonggen Lou, Qian Qian, Hirofumi Yamaguchi, Hisakazu Yamane, Chui-Hua Kong, Michael P. Timko, Lianyang Bai* and Longjiang Fan* (2017). Echinochloa crus-galli genome analysis provides insight into its adaptation and invasiveness as a weed. Nature Commununications 8:1031.  
 
 ### Preprints
-**#1**.**Dongya Wu** et al., Horizontal transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***bioRxiv***. doi:https://doi.org/10.1101/2022.01.11.475971 (2022) (revised in ***the Plant Journal***). 
+**#1**.**Dongya Wu** et al., Horizontal transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***bioRxiv***. doi:https://doi.org/10.1101/2022.01.11.475971 (2022). 
 
 
 ***
