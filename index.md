@@ -33,7 +33,7 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 
 ## Publications 
 ### First-author Publications (#, Co-first author)
-**#8**.**Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022). 
+**#8**.**Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022).  
 **#7**.**Dongya Wu** et al., Horizontal transfer and evolution of the biosynthetic gene cluster for benzoxazinoid in plants. ***Plant Communications***. doi:https://doi.org/10.1016/j.xplc.2022.100320 (2022).  
 **#6**.**Dongya Wu** et al., [Genomic insights into the evolution of Echinochloa species as weed and orphan crop](https://www.nature.com/articles/s41467-022-28359-9). ***Nature Communications***. doi: https://doi.org/10.1038/s41467-022-28359-9 (2022).  
 **#5**.**Dongya Wu** et al., Weedy rice, a hidden gold mine in the paddy field. ***Molecular Plant***. doi: https://doi.org/10.1016/j.molp.2022.01.008 (2022).  
