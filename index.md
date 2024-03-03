@@ -52,7 +52,7 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 
 **#2**. Jie Qiu#, Lei Jia#, **Dongya Wu#** et al., [Diverse genetic mechanisms underlie worldwide convergent rice feralization](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-01980-x). ***Genome Biology***. 21, 70 (2020).  
 
-**#1**. Chu-Yu Ye#, Wei Tang#, **Dongya Wu#** et al., [Genomic evidence of human selection on Vavilovian mimicry](https://www.nature.com/articles/s41559-019-0976-1). ***Nature Ecology & Evolution***. 3, 1474-1482 (2019). [Nature Plants Highlight](https://www.nature.com/articles/s41477-019-0557-y) | [F1000 Recommendation by Prof. Manyuan Long](https://facultyopinions.com/article/736618942)
+**#1**. Chu-Yu Ye#, Wei Tang#, **Dongya Wu#** et al., [Genomic evidence of human selection on Vavilovian mimicry](https://www.nature.com/articles/s41559-019-0976-1). ***Nature Ecology & Evolution***. 3, 1474-1482 (2019). [Nature Plants Highlight](https://www.nature.com/articles/s41477-019-0557-y) [F1000 Recommendation by Prof. Manyuan Long](https://facultyopinions.com/article/736618942)
 
 
 ### Other publications
