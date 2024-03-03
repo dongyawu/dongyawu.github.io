@@ -20,19 +20,22 @@ Supervisor: Longjiang Fan ([Bioinplant Lab](http://ibi.zju.edu.cn/bioinplant/))
 
 ## Research interest
 
-I am interested in **Genome evolution and trait innovation**. With more genomes to be deciphered (e.g. the Earth BioGenome Project), mechanisms underlying species evolution and trait innovation are going to be elucidated through genomics, by integrating multi-omics data and multi-disciplinary methods. My PhD study is mainly about Poaceae crop evolution (e.g. rice and barnyard grass) and aims to facilitate crop production from the view of evolution.
+### Complete genomes
+Long-read sequencing makes it not difficult to assemble a high-quality genome assembly, even a telomere-to-telomere gapless assembly. We have the opportunity to explore the variations in complex repetitive regions (e.g. centromere, telemore, rDNA), which have not been visited before.
 
-### Plant adaptation and domestication through comparative genomics and population genomics
+### Adaptation and domestication through comparative genomics and population genomics
 At individual level, combining genome assemblies, transcriptomics, epi-genomics and other omics data could uncover the mechanism of plant adaptation under stress (e.g. disease resistance). At population level, population genome re-sequencing and GWAS or whole-genome selection scan are powerful ways to exploit key genes regulating plant adaptation (natural population) or agronomic traits (crop).
+
 ### Discordance in phylogeny inference
-  Horizontal transfer, gene introgression, in-complete lineage sorting would result in the discordance in gene phylogeny inference (e.g. in Poaceae). How frequent they are across plants and other kingdoms and how they affect species adaptation are interesting questions to explore. For example, I have identified several important genes which could putatively enhance the crop adaptation and resistance in Poaceae.
-### Convergent evolution and accelerating breeding
-  Traditional gene fine-mapping seems not practicable for orphan crops and the cross-species whole-genome selection analyzes may provide a faster way to excavate target loci for improvement, from the view of convergent evolution. By utilizing the genetic resources from other species, the improvement of orphan crops could be accelerated. Meanwhile, superior resistance genes from orphan crops could be utilized in the improvement of main crops.   
+  Horizontal transfer, gene introgression, in-complete lineage sorting would result in the discordance in gene phylogeny inference (e.g. in Poaceae). How frequent they are across species and how they affect species adaptation are interesting questions to explore. (Wu et al., 2022, Plant Commun.; Wu et al., 2022, Plant J.)
+   
  
 ***
 
 ## Publications 
 ### First-author Publications (#, Co-first author)
+**#10**.**Dongya Wu** et al., A syntelog-based pan-genome provides insights into rice domestication and de-domestication. ***Genome Biology***. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5 (2023).
+**#9**.Chentao Yang, Yang Zhou, Yanni Song, **Dongya Wu**, Yan Zeng et al., The complete and fully-phased diploid genome of a male Han Chinese. ***Cell Research***. https://www.nature.com/articles/s41422-023-00849-5 (2023).
 **#8**.**Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022).  
 **#7**.**Dongya Wu** et al., Horizontal transfer and evolution of the biosynthetic gene cluster for benzoxazinoid in plants. ***Plant Communications***. doi:https://doi.org/10.1016/j.xplc.2022.100320 (2022).  
 **#6**.**Dongya Wu** et al., [Genomic insights into the evolution of Echinochloa species as weed and orphan crop](https://www.nature.com/articles/s41467-022-28359-9). ***Nature Communications***. doi: https://doi.org/10.1038/s41467-022-28359-9 (2022).  
