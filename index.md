@@ -34,9 +34,9 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 
 ## Publications 
 ### First-author Publications (#, Co-first author)
-**#10**. **Dongya Wu** et al., A syntelog-based pan-genome provides insights into rice domestication and de-domestication. ***Genome Biology***. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5 (2023).  
+**#10**. **Dongya Wu** et al., [A syntelog-based pan-genome provides insights into rice domestication and de-domestication](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5). ***Genome Biology***. (2023).  
 
-**#9**. Chentao Yang, Yang Zhou, Yanni Song, **Dongya Wu**, Yan Zeng et al., The complete and fully-phased diploid genome of a male Han Chinese. ***Cell Research***. https://www.nature.com/articles/s41422-023-00849-5 (2023).  
+**#9**. Chentao Yang, Yang Zhou, Yanni Song, **Dongya Wu**, Yan Zeng et al., [The complete and fully-phased diploid genome of a male Han Chinese](https://www.nature.com/articles/s41422-023-00849-5). ***Cell Research***. (2023).  
 
 **#8**. **Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022).  
 
