@@ -34,8 +34,8 @@ At individual level, combining genome assemblies, transcriptomics, epi-genomics 
 
 ## Publications 
 ### First-author Publications (#, Co-first author)
-**#10**.**Dongya Wu** et al., A syntelog-based pan-genome provides insights into rice domestication and de-domestication. ***Genome Biology***. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5 (2023).
-**#9**.Chentao Yang, Yang Zhou, Yanni Song, **Dongya Wu**, Yan Zeng et al., The complete and fully-phased diploid genome of a male Han Chinese. ***Cell Research***. https://www.nature.com/articles/s41422-023-00849-5 (2023).
+**#10**.**Dongya Wu** et al., A syntelog-based pan-genome provides insights into rice domestication and de-domestication. ***Genome Biology***. https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5 (2023).  
+**#9**.Chentao Yang, Yang Zhou, Yanni Song, **Dongya Wu**, Yan Zeng et al., The complete and fully-phased diploid genome of a male Han Chinese. ***Cell Research***. https://www.nature.com/articles/s41422-023-00849-5 (2023).  
 **#8**.**Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022).  
 **#7**.**Dongya Wu** et al., Horizontal transfer and evolution of the biosynthetic gene cluster for benzoxazinoid in plants. ***Plant Communications***. doi:https://doi.org/10.1016/j.xplc.2022.100320 (2022).  
 **#6**.**Dongya Wu** et al., [Genomic insights into the evolution of Echinochloa species as weed and orphan crop](https://www.nature.com/articles/s41467-022-28359-9). ***Nature Communications***. doi: https://doi.org/10.1038/s41467-022-28359-9 (2022).  
