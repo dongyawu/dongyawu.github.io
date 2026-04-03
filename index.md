@@ -39,13 +39,13 @@ Despite the completion of the human genome, over 20% of its regions, primarily c
 ## Publications 
 ### First-author Publications (#, Co-first author; *, Corresponding author)
 
-**#14**. Yujie Huang et al., Longjiang Fan\\*, **Dongya Wu**\\*, [RIFinder reveals widespread adaptive remote introgression in grass genomes](https://www.cell.com/plant-communications/fulltext/S2590-3462(25)00420-1). ***Plant Communications***. (2025).
+**#14**. Yujie Huang et al., Longjiang Fan\*, **Dongya Wu**\*, [RIFinder reveals widespread adaptive remote introgression in grass genomes](https://www.cell.com/plant-communications/fulltext/S2590-3462(25)00420-1). ***Plant Communications***. (2025).
 
-**#13**. Lingjuan Xie#, Yujie Huang#, Wei Huang#, Lianguang Shang#, et al., Longjiang Fan\\*, **Dongya Wu**\\*, [Genetic diversity and evolution of rice centromeres](https://www.nature.com/articles/s41588-025-02365-1). ***Nature Genetics***. (2025).
+**#13**. Lingjuan Xie#, Yujie Huang#, Wei Huang#, Lianguang Shang#, et al., Longjiang Fan\*, **Dongya Wu**\*, [Genetic diversity and evolution of rice centromeres](https://www.nature.com/articles/s41588-025-02365-1). ***Nature Genetics***. (2025).
 
-**#12**. Baohua Chen, **Dongya Wu**\\*, Guojie Zhang\\*, [GFFx: A Rust-based suite of utilities for ultra-fast genomic feature extraction](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf124/8300235?login=true). ***GigaScience***. (2025).
+**#12**. Baohua Chen, **Dongya Wu**\*, Guojie Zhang\*, [GFFx: A Rust-based suite of utilities for ultra-fast genomic feature extraction](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf124/8300235?login=true). ***GigaScience***. (2025).
 
-**#11**. Quanyu Chen, Chentao Yang, Guojie Zhang*\\*, **Dongya Wu**\\*, [GCI: a continuity inspector for complete genome assembly](https://academic.oup.com/bioinformatics/article/40/11/btae633/7829147). ***Bioinformatics***. (2024).
+**#11**. Quanyu Chen, Chentao Yang, Guojie Zhang*\*, **Dongya Wu**\*, [GCI: a continuity inspector for complete genome assembly](https://academic.oup.com/bioinformatics/article/40/11/btae633/7829147). ***Bioinformatics***. (2024).
 
 **#10**. **Dongya Wu** et al., [A syntelog-based pan-genome provides insights into rice domestication and de-domestication](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5). ***Genome Biology***. (2023).  
 
