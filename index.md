@@ -13,9 +13,9 @@ See [ResearchGate](https://www.researchgate.net/profile/Dongya-Wu) to get more i
 ***
 ## Education
 
-Bachlor | Horticulture | Zhejiang University  
-  
-PhD | Crop genetic breeding | Zhejiang University  
+Bachlor: Horticulture @ Zhejiang University
+
+PhD: Crop genetic breeding @ Zhejiang University  
 Supervisor: Longjiang Fan ([Bioinplant Lab](http://ibi.zju.edu.cn/bioinplant/))
 
 ***
