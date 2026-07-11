@@ -47,18 +47,25 @@ Despite the completion of the human genome, over 20% of its regions, primarily c
 ***
 
 ## Publications (#, Co-first author; *, Corresponding author)
-
+***
+### 2025
 **#14**. Yujie Huang et al., Longjiang Fan\*, **Dongya Wu**\*, [RIFinder reveals widespread adaptive remote introgression in grass genomes](https://www.cell.com/plant-communications/fulltext/S2590-3462(25)00420-1). ***Plant Communications***. (2025).
 
 **#13**. Lingjuan Xie#, Yujie Huang#, Wei Huang#, Lianguang Shang#, et al., Longjiang Fan\*, **Dongya Wu**\*, [Genetic diversity and evolution of rice centromeres](https://www.nature.com/articles/s41588-025-02365-1). ***Nature Genetics***. (2025).
 
 **#12**. Baohua Chen, **Dongya Wu**\*, Guojie Zhang\*, [GFFx: A Rust-based suite of utilities for ultra-fast genomic feature extraction](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf124/8300235?login=true). ***GigaScience***. (2025).
 
+### 2024
+
 **#11**. Quanyu Chen, Chentao Yang, Guojie Zhang*\*, **Dongya Wu**\*, [GCI: a continuity inspector for complete genome assembly](https://academic.oup.com/bioinformatics/article/40/11/btae633/7829147). ***Bioinformatics***. (2024).
+
+### 2023
 
 **#10**. **Dongya Wu** et al., [A syntelog-based pan-genome provides insights into rice domestication and de-domestication](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03017-5). ***Genome Biology***. (2023).  
 
 **#9**. Chentao Yang, Yang Zhou, Yanni Song, **Dongya Wu**, Yan Zeng et al., [The complete and fully-phased diploid genome of a male Han Chinese](https://www.nature.com/articles/s41422-023-00849-5). ***Cell Research***. (2023).  
+
+### 2022
 
 **#8**. **Dongya Wu** et al., Lateral transfers lead to the birth of momilactone biosynthetic gene clusters in grass. ***The Plant Journal***.doi: https://doi.org/10.1111/tpj.15893 (2022).  
 
@@ -67,6 +74,8 @@ Despite the completion of the human genome, over 20% of its regions, primarily c
 **#6**. **Dongya Wu** et al., [Genomic insights into the evolution of Echinochloa species as weed and orphan crop](https://www.nature.com/articles/s41467-022-28359-9). ***Nature Communications***. doi: https://doi.org/10.1038/s41467-022-28359-9 (2022).  
 
 **#5**. **Dongya Wu** et al., Weedy rice, a hidden gold mine in the paddy field. ***Molecular Plant***. doi: https://doi.org/10.1016/j.molp.2022.01.008 (2022).  
+
+### Before 2022
 
 **#4**. **Dongya Wu** et al., [De-domestication: an extension of crop evolution](https://www.cell.com/trends/plant-science/fulltext/S1360-1385(21)00032-7). ***Trends in Plant Science***. 26, 560-574 (2021).  
 
