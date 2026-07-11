@@ -13,14 +13,17 @@
 
 ***
 ## Events
-
-*** 📅 29th, Apr. 2026 | 🌐 Greece | Mingyu reports our APG work on archiac introgression at HGM2026 
+* 📅 8th, Jul. 2026 | 🌐 Swiss | Quanyu reports our PGA work at IGGsy2026
+* 📅 24th, Apr. 2026 | 🌐 Greece | Mingyu reports our APG work on archiac introgression at HGM2026 
 <details>
  <summary> <b> Details </b> </summary>
  ** APG work at HGM2026 **
- ssss
-<img src="https://github.com/dongyawu/dongyawu.github.io/blob/main/_images/Suo%20Mingyu%20presenting%20at%20HGM2026.png", width="600px" />
+Mingyu Suo attended the Human Genome Meeting 2026 (HGM2026) in Greece, held under the theme “Bringing our Genomes to Medicine.” The conference provided a dynamic forum for advances in genome-stratified medicine, population genomics, and therapeutic interventions, drawing global experts from academia, clinical practice, and industry. During the meeting, Mingyu delivered an oral presentation titled “Deciphering complete archaic introgression sequences in modern human genomes.” The talk introduced ASMaid (Assembly-based archaic introgression detector), a novel Hidden Markov Model-based framework that leverages haplotype-resolved pangenome assemblies to identify introgressed sequences from Neanderthals and Denisovans with unprecedented completeness. Suo’s presentation was met with strong interest from the international audience.
+
+ <img src="https://github.com/dongyawu/dongyawu.github.io/blob/main/_images/Suo%20Mingyu%20presenting%20at%20HGM2026.png", width="600px" />
 </details>
+
+***
 
 ## Research interest
 
