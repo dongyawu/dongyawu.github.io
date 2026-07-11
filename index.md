@@ -14,9 +14,7 @@
 ***
 ## Events
 * 📅 8th, Jul. 2026 | 🌐 Swiss | Quanyu reports our PGA work at IGGsy2026
-* 📅 24th, Apr. 2026 | 🌐 Greece | Mingyu reports our APG work on archiac introgression at HGM2026 
-
-<details>
+* 📅 24th, Apr. 2026 | 🌐 Greece | Mingyu reports our APG work on archiac introgression at HGM2026 <details>
 <summary> <b> Details </b> </summary>
  
 ** APG work at HGM2026 **
