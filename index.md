@@ -12,14 +12,15 @@
 
 
 ***
-## Education
+## Events
 
-Bachlor: Horticulture @ Zhejiang University
-
-PhD: Crop genetic breeding @ Zhejiang University  
-Supervisor: Longjiang Fan ([Bioinplant Lab](http://ibi.zju.edu.cn/bioinplant/))
-
-***
+*** 📅 29th, Apr. 2026 | 🌐 Greece | Mingyu reports our APG work on archiac introgression at HGM2026 
+<details>
+ <summary> <b> Details </b> </summary>
+ ** APG work at HGM2026 **
+ ssss
+<img src="https://github.com/dongyawu/dongyawu.github.io/blob/main/_images/Suo%20Mingyu%20presenting%20at%20HGM2026.png", width="600px" />
+</details>
 
 ## Research interest
 
