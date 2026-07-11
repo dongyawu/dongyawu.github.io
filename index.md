@@ -43,17 +43,15 @@ The centromere represents one of the most repetitive genomic regions in eukaryot
 ### Human genomics and disease
 Despite the completion of the human genome, over 20% of its regions, primarily complex repeats and structural variants, remain “dark”. We are constructing Platinum-level Human Pan-genomes using T2T gapless assemblies to illuminate these regions and their roles in health and disease. We aim to study the dark regions in the human genome from (1) High-resolution architecture, by deciphering the assembly of complex loci and the mutational mechanisms that drive their formation; (2) Adaptive selection, by mapping the evolutionary signatures within these dark regions to identify novel loci involved in human-specific traits and environmental adaptation; (3) Pathogenic variation, by identifying cryptic variants within dark regions through screening large-scale health and disease panels to solve missing heritability.
 
- 
+
 ***
 
 ## Bioinformatics Tools
 
 | Tools | Type | Description | Ref |
-
+| ：--- | ：--- | ：--- | ：--- |
 | [**SynPan**](https://github.com/dongyawu/PangenomeEvolution) | Pangenome | a pipeline for syntelog-based pangenome construction | [Wu et al., 2022](https://link.springer.com/article/10.1186/s13059-023-03017-5) |
-
 | [**GCI**](https://github.com/yeeus/GCI) | T2T assembly | a continuity inspector for complete genome assembly | [Chen et al., 2024](https://academic.oup.com/bioinformatics/article/40/11/btae633/7829147) |
-
 | [**GFFx**](https://github.com/Baohua-Chen/GFFx) | Annotation | a high-performance, Rust-based toolkit for extracting and querying annotations from GFF3 files | [Chen et al., 2025](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf124/8300235?login=false) |
 
 
