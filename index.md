@@ -96,6 +96,10 @@ Despite the completion of the human genome, over 20% of its regions, primarily c
 **#1**. Chu-Yu Ye#, Wei Tang#, **Dongya Wu#** et al., [Genomic evidence of human selection on Vavilovian mimicry](https://www.nature.com/articles/s41559-019-0976-1). ***Nature Ecology & Evolution***. 3, 1474-1482 (2019). [Nature Plants Highlight](https://www.nature.com/articles/s41477-019-0557-y) [F1000 Recommendation by Prof. Manyuan Long](https://facultyopinions.com/article/736618942)
 
 
+
+***
+
+
 See [ResearchGate](https://www.researchgate.net/profile/Dongya-Wu) to get more information.
 
 
