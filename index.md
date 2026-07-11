@@ -1,6 +1,6 @@
-# Welcome to Dongya's Homepage
+# Welcome to EvoComX WU Lab's Homepage
 
-
+We are a genomics research group dedicated to illuminating the 'dark matter' of genomes. Our research focuses on resolving complex genomic regions through advanced long-read sequencing technologies.
 
 ## Contact
 
@@ -8,7 +8,9 @@
 
 **Phone**: 0571-88208707
 
-**Location**: Life Sciences Research Interdisciplinary Center, Zhejiang University, China
+**Affiliation**: [Centre for Evolutionary & Organismal Biology](https://evolution.zju.edu.cn/), ZJU; School of Basic Medical Sciences, ZJU
+
+**Location**: Life Sciences Research Interdisciplinary Center, [Zhejiang University](https://www.zju.edu.cn/), China
 
 
 ***
