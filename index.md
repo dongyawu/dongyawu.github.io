@@ -49,7 +49,6 @@ Despite the completion of the human genome, over 20% of its regions, primarily c
 ## Bioinformatics Tools
 
 | Tools | Type | Description | Ref |
-| ：--- | ：--- | ：--- | ：--- |
 | [**SynPan**](https://github.com/dongyawu/PangenomeEvolution) | Pangenome | a pipeline for syntelog-based pangenome construction | [Wu et al., 2022](https://link.springer.com/article/10.1186/s13059-023-03017-5) |
 | [**GCI**](https://github.com/yeeus/GCI) | T2T assembly | a continuity inspector for complete genome assembly | [Chen et al., 2024](https://academic.oup.com/bioinformatics/article/40/11/btae633/7829147) |
 | [**GFFx**](https://github.com/Baohua-Chen/GFFx) | Annotation | a high-performance, Rust-based toolkit for extracting and querying annotations from GFF3 files | [Chen et al., 2025](https://academic.oup.com/gigascience/article/doi/10.1093/gigascience/giaf124/8300235?login=false) |
