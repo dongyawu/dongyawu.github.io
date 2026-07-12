@@ -32,7 +32,7 @@ We are a genomics research group dedicated to illuminating the 'dark matter' of 
 
 ***
 
-## Research
+## Researches
 
 ### Genomic complexity of tandem repeats (TRs)
 Long-read sequencing technology makes it possible to completely decipher the sequences of highly repetitive regions, previously “dark” regions, including tandem genes and non-coding elements (e.g. VNTR/STR). By leveraging multi-omics long-read sequencing technologies and artificial intelligence, we aim to study (1) High-order architecture: deciphering the hierarchical folding and spatial organization of TRs that dictate chromosome integrity; (2) Evolutionary dynamics: quantifying the "Birth-and-Death" processes and evolutionary constraints to identify functional motifs that resist neutral homogenization; (3) Regulatory heterogeneity: mapping the epigenetic polarity within TR arrays to understand their role as “transcriptional rheostats”; (4) Adaptive innovation: Linking TR-mediated structural variation to trait innovation and rapid adaptation across eukaryotic lineages.
@@ -44,6 +44,11 @@ The centromere represents one of the most repetitive genomic regions in eukaryot
 
 ### Human genomics and disease
 Despite the completion of the human genome, over 20% of its regions, primarily complex repeats and structural variants, remain “dark”. We are constructing Platinum-level Human Pan-genomes using T2T gapless assemblies to illuminate these regions and their roles in health and disease. We aim to study the dark regions in the human genome from (1) High-resolution architecture, by deciphering the assembly of complex loci and the mutational mechanisms that drive their formation; (2) Adaptive selection, by mapping the evolutionary signatures within these dark regions to identify novel loci involved in human-specific traits and environmental adaptation; (3) Pathogenic variation, by identifying cryptic variants within dark regions through screening large-scale health and disease panels to solve missing heritability.
+
+***
+
+## Members
+
 
 
 ***
@@ -58,7 +63,9 @@ Despite the completion of the human genome, over 20% of its regions, primarily c
 
 ***
 
-## Publications (#, Co-first author; *, Corresponding author)
+## Publications 
+
+(#, Co-first author; *, Corresponding author)
 
 ### 2025
 **#14**. Yujie Huang et al., Longjiang Fan\*, **Dongya Wu**\*, [RIFinder reveals widespread adaptive remote introgression in grass genomes](https://www.cell.com/plant-communications/fulltext/S2590-3462(25)00420-1). ***Plant Communications***. (2025).
