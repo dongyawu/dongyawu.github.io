@@ -2,6 +2,8 @@
 
 We are a genomics research group dedicated to illuminating the 'dark matter' of genomes. Our research focuses on resolving complex genomic regions through advanced long-read sequencing technologies.
 
+***
+
 ## Contact
 
 **Email**: wudongya@zju.edu.cn
@@ -16,11 +18,11 @@ We are a genomics research group dedicated to illuminating the 'dark matter' of 
 ***
 ## Events
 <li>
-   📅 8th, Jul. 2026 @ 🇨🇭 Swiss | <b>Quanyu reports our PGA work at IGGsy2026</b>
+   📅 8th, Jul. 2026 @ 🇨🇭 Swiss | Quanyu reports our PGA gene cluster work at IGGsy2026
 </li>
 
 <li>
-   📅 24th, Apr. 2026 @ 🇬🇷 Greece | <b>Mingyu reports our APG work on archiac introgression at HGM2026</b> <details style="display: inline-block;" markdown="1"> <summary> 🔍Details </summary>
+   📅 24th, Apr. 2026 @ 🇬🇷 Greece | Mingyu reports our APG work of archiac introgression at HGM2026 <details style="display: inline-block;" markdown="1"> <summary> 🔍Details </summary>
    <br>
    Mingyu Suo attended the Human Genome Meeting 2026 (HGM2026) in Greece, held under the theme “Bringing our Genomes to Medicine.” The conference provided a dynamic forum for advances in genome-stratified medicine, population genomics, and therapeutic interventions, drawing global experts from academia, clinical practice, and industry. During the meeting, Mingyu delivered an oral presentation titled “Deciphering complete archaic introgression sequences in modern human genomes.” The talk introduced ASMaid (Assembly-based archaic introgression detector), a novel Hidden Markov Model-based framework that leverages haplotype-resolved pangenome assemblies to identify introgressed sequences from Neanderthals and Denisovans with unprecedented completeness.
    <br>
@@ -30,7 +32,7 @@ We are a genomics research group dedicated to illuminating the 'dark matter' of 
 
 ***
 
-## Research interest
+## Research
 
 ### Genomic complexity of tandem repeats (TRs)
 Long-read sequencing technology makes it possible to completely decipher the sequences of highly repetitive regions, previously “dark” regions, including tandem genes and non-coding elements (e.g. VNTR/STR). By leveraging multi-omics long-read sequencing technologies and artificial intelligence, we aim to study (1) High-order architecture: deciphering the hierarchical folding and spatial organization of TRs that dictate chromosome integrity; (2) Evolutionary dynamics: quantifying the "Birth-and-Death" processes and evolutionary constraints to identify functional motifs that resist neutral homogenization; (3) Regulatory heterogeneity: mapping the epigenetic polarity within TR arrays to understand their role as “transcriptional rheostats”; (4) Adaptive innovation: Linking TR-mediated structural variation to trait innovation and rapid adaptation across eukaryotic lineages.
